@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "WALLFLOWER",
+  "base_artist": "TWICE",
+  "createdAt": "2026-03-31T13:54:27.377254Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wallflower",
+      "artist": "Sevdaliza",
+      "has_synced": true,
+      "path": "select/01_Wallflower_Sevdaliza.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wallflower",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/02_Wallflower_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wallflower",
+      "artist": "Peter Gabriel (SACD 2003 Remaster)",
+      "has_synced": true,
+      "path": "select/03_Wallflower_Peter_Gabriel_(SACD_2003_Remaster).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wallflower - Live In London/2011",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/04_Wallflower_-_Live_In_London_2011_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wallflower (live in Chile: September 1993)",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/05_Wallflower_(live_in_Chile__September_1993)_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Wallflower (Dance With Me Henry)",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/06_The_Wallflower_(Dance_With_Me_Henry)_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wallflower",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/07_Wallflower_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wallflower",
+      "artist": "In Flames",
+      "has_synced": false,
+      "path": "select/08_Wallflower_In_Flames.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wallflower",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/09_Wallflower_Jinjer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's The Way A Wallflower Grows",
+      "artist": "Tony Orlando&Dawn",
+      "has_synced": false,
+      "path": "select/10_That's_The_Way_A_Wallflower_Grows_Tony_Orlando&Dawn.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's The Way A Wallflower Grows",
+      "artist": "Tony Orlando & Dawn",
+      "has_synced": false,
+      "path": "select/11_That's_The_Way_A_Wallflower_Grows_Tony_Orlando_&_Dawn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Wallflower (Dance With Me Henry)",
+      "artist": "Etta James feat. Richard Berry",
+      "has_synced": false,
+      "path": "select/12_The_Wallflower_(Dance_With_Me_Henry)_Etta_James_feat._Richard_Berry.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Wallflower",
+      "artist": "Etta James",
+      "has_synced": false,
+      "path": "select/13_The_Wallflower_Etta_James.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Wallflower - aka Roll With Me Henry",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/14_The_Wallflower_-_aka_Roll_With_Me_Henry_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Wallflower (aka Roll With Me Henry)",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/15_The_Wallflower_(aka_Roll_With_Me_Henry)_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wallflower",
+      "artist": "Diana Krall feat. Blake Mills",
+      "has_synced": true,
+      "path": "select/16_Wallflower_Diana_Krall_feat._Blake_Mills.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WALLFLOWER",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_WALLFLOWER_TWICE.txt"
+    }
+  ]
+}
